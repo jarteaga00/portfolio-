@@ -1,0 +1,140 @@
+
+
+.about {
+    font-size: 10px;
+    display: inline-block;
+}
+
+#avatar-abt {
+    
+}
+
+#about-me-header {
+    font-size: 20px;
+    position: absolute 100%;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 3rem;
+    font-family: sans-serif;
+}
+
+.about-me {
+    font-size: 25px;
+    display: inline-block;
+} 
+
+#paragraph {
+    padding-right: 50%;
+    font-size: 25px;
+}
+
+
+#avatar {
+    border-radius: 100%;
+    max-width: 45%;
+    max-height: 45%;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3rem;
+    float: right;
+}
+
+#avatar-h2 {
+ 
+}
+
+.body {
+background-color: #f2e9e4;
+}
+
+#contact-info {
+    font-weight: bold;
+    display: inline-block;
+    font-size: 3rem;
+    border-color: gray;
+}
+
+#contents {
+    justify-content: space-between;
+    list-style: none;
+    color: #4a4e69;
+    text-decoration: none;
+    text-align: center;
+    background-position: 100%;
+    display: inline;
+}
+
+.header {
+    font-family: sans-serif;
+    font-size: 40px;
+    text-shadow: 2px 2px black;
+    color: #4a4e69;
+    background-color:#c9ada7; 
+    margin-top: -5%;
+    flex-flow: row;
+    text-align: center;
+}
+
+#li{
+    font-size: 1000px;
+}
+
+ul h2 {
+    font-size: 2rem;
+    display: inline;
+    padding-right: 26%;
+    text-align: center;
+}
+
+#my-work {
+    padding: 35%;
+    font-size: 50px;
+    font-family: sans-serif;
+
+}
+
+.my-work ul {
+    font-size: 25px;
+}
+
+#name {
+    color: #22223b;
+    font-family: serif;
+    font-size: 25px;
+
+}
+
+#name h2 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#portfolioHeader {
+    font-size: 85px;
+    text-align: center;
+    margin-top: 5%;
+}
+.title{
+    max-width: 25%;
+}
+
+ul li {
+    display: inline;
+    padding: 8%;
+    text-decoration: none; 
+    color:#4a4e69;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 5px;
+    justify-content: space-evenly;
+
+    
+}
+
+.marvel-quest {
+    max-width: 250%
+}
