@@ -1,13 +1,9 @@
 
-
 .about {
     font-size: 10px;
     display: inline-block;
 }
 
-#avatar-abt {
-    
-}
 
 #about-me-header {
     font-size: 20px;
@@ -40,10 +36,6 @@
     float: right;
 }
 
-#avatar-h2 {
- 
-}
-
 .body {
 background-color: #f2e9e4;
 }
@@ -51,7 +43,7 @@ background-color: #f2e9e4;
 #contact-info {
     font-weight: bold;
     display: inline-block;
-    font-size: 3rem;
+    font-size: 2rem;
     border-color: gray;
 }
 
@@ -137,4 +129,8 @@ ul li {
 
 .marvel-quest {
     max-width: 250%
+}
+
+.project-manager {
+    max-width: 250%;
 }
